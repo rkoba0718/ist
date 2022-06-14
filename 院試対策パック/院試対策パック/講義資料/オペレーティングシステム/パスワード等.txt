@@ -1,0 +1,5 @@
+配布先
+http://www-mats.ist.osaka-u.ac.jp/~matsuda/os/
+
+username:os
+password:joho2015
